@@ -6,7 +6,7 @@
 ---
 
 ## ✨ About
-- Based on **Xenos injector**, but with a twist.  
+- Based on **Xenos injector**
 - Customized resources, icons, and GUI edits.  
 
 ---
