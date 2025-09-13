@@ -1,4 +1,4 @@
-# 🌀 J I Z Z   I N J E C T O R
+# 🌀 J I Z Z      I N J E C T O R
 
 > **Disclaimer:** This is a customised version of [DarthTon/Xenos](https://github.com/DarthTon/Xenos).  
 > It’s not a serious tool — the purpose is purely as a **funny injector** for me and my friends.
